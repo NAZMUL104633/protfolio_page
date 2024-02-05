@@ -1,0 +1,291 @@
+@media(min-width:1200px){
+
+}
+@media(max-width:1199px){
+    .banner_sec {
+        padding-top: 110px;
+    }
+    .banner_info h1 {
+        margin-top: 8px;
+    }
+    .banner_info h6 {
+        margin-bottom: 13px;
+    }
+    .experienc_item span {
+        font-size: 20px;
+        left: -25%;
+        top: -12%;
+    }
+    .experienc_item h3 {
+        font-size: 23px;
+    }
+    .experienc_item p {
+        font-size: 15px;
+    }
+    .project {
+        height: 400px;
+    }
+    .Process_item span {
+        left: -19%;
+        top: -10%;
+        font-size: 20px;
+    }
+}
+@media(max-width:991px){
+    .banner_info h1 {
+        font-size: 40px;
+        margin-top: 15px;
+    }
+    .banner_info p {
+        margin: 0;
+    }
+    .experienc_item span {
+        left: -35%;
+        top: -12%;
+        font-size: 16px;
+        padding-bottom: 2px;
+    }
+    .experienc_item .icon i {
+        font-size: 40px;
+    }
+    .experienc_item h3 {
+        font-size: 20px;
+    }
+    .protfolio_info h6 {
+        font-size: 14px;
+    }
+    .visit_btn {
+        font-size: 13px;
+        padding: 4px 10px;
+    }
+    .protfolio_info {
+        padding-top: 9px;
+    }
+    .experienc_item p {
+        font-size: 14px;
+    }
+    .experienc_item {
+        padding: 38px 10px;
+    }
+    .project {
+        height: 300px;
+    }
+    .Process_item span {
+        left: -28%;
+        top: -11%;
+        font-size: 16px;
+        padding-bottom: 2px;
+    }
+    .Process_item{
+        padding: 38px 10px;
+    }
+}
+
+@media(max-width:767px){
+    .experienc_sec {
+        padding: 0;
+        padding-bottom: 100px;
+    }
+    .Extra_img_media {
+        display: inherit;
+        justify-content: center;
+        width: 70%;
+        margin: auto;
+        padding-top: 40px;
+    }
+    .extra_second_profile{
+        display: none;
+    }
+    .banner_img img {
+        position: static;
+    }
+    .banner_sec {
+        padding-top: 80px;
+    }
+    .banner_item {
+        height: 95vh;
+        text-align: center;
+    }
+    .banner_info h1 {
+        margin-top: 12px;
+        font-size: 40px;
+    }
+    .banner_info p {
+        font-size: 16px !important;
+        font-weight: normal;
+        margin: left;
+        margin-top: 15px;
+    }
+    .banner_link ul {
+        justify-content: center;
+    }
+    .banner_link {
+        margin-top: 30px;
+    }
+    .experienc_item {
+        width: 80%;
+        margin-bottom: 20px;
+        margin: auto;
+    }
+    .expr_column{
+        margin-bottom: 25px;
+    }
+    .experienc_second {
+        padding-top: 0px;
+    }
+    .protfolio_heading h1 {
+        font-size: 40px;
+    }
+    .protfolio_heading p {
+        width: 80%;
+        margin: auto;
+        margin-top: 7px;
+    }
+    .protfolio_item {
+        width: 80%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .progress_row {
+        width: 80%;
+        margin: auto;
+    }
+    .progress_heading {
+        margin: 21px 0;
+    }
+    .Process_item {
+        width: 80%;
+        margin: auto;
+    }
+    .w_column{
+        margin-bottom: 30px;
+    }
+    .contuct_part {
+        width: 80%;
+        margin: auto;
+    }
+    .contuct_form {     
+        width: 80%;
+        margin: auto;
+        margin-top: 30px;
+    }
+    .skill_heading h1 {
+        font-size: 40px;
+    }
+    .work_process_heading h1 {
+        font-size: 40px;
+    }
+    .contuct_heading h1 {
+        font-size: 40px;
+    }   
+}
+
+@media(max-width:575px){
+    .extra_second_profile{
+        display: none;
+    }
+    .banner_img img {
+        position: static;
+    }
+    .banner_link {
+        margin-top: 30px;
+    }
+    .Extra_img_media {
+        display: inherit;
+        justify-content: center;
+        width: 70%;
+        margin: auto;
+    }
+    .banner_sec {
+        padding-top: 70px;
+    }
+    .banner_item {
+        text-align: center;
+        min-height: 80vh;
+    }
+    .banner_info h1 {
+        margin-top: 12px;
+        font-size: 40px;
+    }
+    .experienc_item span {
+        left: -18%;
+        top: -17%;
+        font-size: 16px;
+        padding-bottom: 1px;
+    }
+    .Process_item span {
+        left: -18%;
+        top: -13%;
+        font-size: 16px;
+        padding-bottom: 1px;
+    }
+    .banner_info p {
+        font-size: 16px !important;
+        font-weight: normal;
+        width: 70%;
+        margin: auto;
+        margin-top: 15px;
+    }
+    .banner_link ul {
+        justify-content: center;
+    }
+    .experienc_item {
+        width: 80%;
+        margin-bottom: 20px;
+        margin: auto;
+    }
+    .project{
+        height: 400px;
+    }
+    .expr_column{
+        margin-bottom: 25px;
+    }
+    .experienc_second {
+        padding-top: 0px;
+    }
+    .protfolio_heading h1 {
+        font-size: 40px;
+    }
+    .protfolio_heading p {
+        width: 80%;
+        margin: auto;
+        margin-top: 7px;
+    }
+    .protfolio_item {
+        width: 80%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .progress_row {
+        width: 80%;
+        margin: auto;
+    }
+    .progress_heading {
+        margin: 21px 0;
+    }
+    .Process_item {
+        width: 80%;
+        margin: auto;
+    }
+    .w_column{
+        margin-bottom: 30px;
+    }
+    .contuct_part {
+        width: 80%;
+        margin: auto;
+    }
+    .contuct_form {     
+        width: 80%;
+        margin: auto;
+        margin-top: 30px;
+    }
+    .skill_heading h1 {
+        font-size: 40px;
+    }
+    .work_process_heading h1 {
+        font-size: 40px;
+    }
+    .contuct_heading h1 {
+        font-size: 40px;
+    }    
+}
